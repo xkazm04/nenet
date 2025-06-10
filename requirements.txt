@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20
+supabase==2.15.2
+pydantic==2.9.0
+python-dotenv==1.1.0
+openai==1.82.1
+google-generativeai==0.8.5
+fastapi-cache2==0.2.2
+firecrawl==2.8.0
+unidecode==1.4.0

@@ -1,0 +1,54 @@
+# Default gcloudignore from https://cloud.google.com/sdk/gcloud/reference/topic/gcloudignore
+.gcloudignore
+.git
+.gitignore
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env.*
+
+# IDE specific
+.vscode/
+.idea/
+
+# Local data or large files not needed for runtime
+# If files in 'data/' (e.g., SQL scripts for one-time setup) are not needed by the running application,
+# you can ignore the directory. If they are loaded at runtime, do not ignore.
+# data/
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Cache files
+.pytest_cache/
+.mypy_cache/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.hypothesis/
+.benchmark/
