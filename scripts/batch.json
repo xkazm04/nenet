@@ -1,0 +1,1152 @@
+[
+    {
+        "name": "Bobby Hull",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Alex Delvecchio",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Xavi Hernandez",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Luis Figo",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Mike Bossy",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Billy Cunningham",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Max Bentley",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Pele",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Michael Jordan",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Tim Duncan",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Mario Kempes",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Cy Denneny",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Hal Greer",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Eric Lindros",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Sandro Mazzola",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Nate Archibald",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Billy Smith",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kawhi Leonard",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Dwyane Wade",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Karl Malone",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Dirk Nowitzki",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Steve Yzerman",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Franz Beckenbauer",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Willis Reed",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Zinedine Zidane",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Diego Maradona",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Luis Suarez (Miramontes)",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Preben Elkjaer",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "George Weah",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Thierry Henry",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Russell Westbrook",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Patrick Roy",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Anthony Davis",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Kenny Dalglish",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Wayne Gretzky",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Earl Monroe",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Paul Coffey",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Johnny Bucyk",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "John Stockton",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Mark Messier",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Neymar Jr.",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Brian Leetch",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Nate Thurmond",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Paul Arizin",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Clyde Drexler",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Jason Kidd",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Charles Barkley",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Serge Savard",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kylian Mbappe",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Pavel Nedved",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "George Mikan",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Gordon Banks",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ray Allen",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Omar Sivori",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Jairzinho",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Gary Payton",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Andres Iniesta",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "James Harden",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Shaquille O'Neal",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Nels Stewart",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Dominique Wilkins",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Dickie Moore",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Lev Yashin",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Daniel Passarella",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "John Havlicek",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Cafu",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Eusebio",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Kevin Keegan",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Elgin Baylor",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Elvin Hayes",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Hristo Stoichkov",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Peter Stastny",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Charlie Conacher",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Allen Iverson",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Kaka",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Jari Kurri",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kareem Abdul-Jabbar",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Ray Bourque",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Roberto Baggio",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Frank Boucher",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Maurice Richard",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "King Clancy",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Jacques Plante",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Patrick Ewing",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Lionel Messi",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bill Russell",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Julius Erving",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Tony Esposito",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bobby Orr",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Raymond Kopa",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Martin Brodeur",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Borje Salming",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bob McAdoo",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Johan Cruyff",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Walt Frazier",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Paolo Maldini",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Garrincha",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bob Cousy",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Dave DeBusschere",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Charlie Gardiner",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bernie Parent",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Romario",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Jerry Lucas",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Stan Mikita",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Alan Hansen",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Chris Paul",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Ted Lindsay",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kobe Bryant",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Lenny Wilkens",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Doug Bentley",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Reggie Miller",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Franco Baresi",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ted Kennedy",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Jimmy Johnstone",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ruud Gullit",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Alfredo Di Stefano",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Gaetano Scirea",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Igor Belanov",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Aurel Joliat",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bill Durnan",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Earl Seibert",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Terry Sawchuk",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Johan Neeskens",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Kevin Durant",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Carmelo Anthony",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Damian Lillard",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Milt Schmidt",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Ferenc Puskas",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bobby Clarke",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Mario Lemieux",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Jean Beliveau",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Stephen Curry",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Isiah Thomas",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Dave Keon",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "George Gervin",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Steve Nash",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Rick Barry",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "LeBron James",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Fabio Cannavaro",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Dennis Rodman",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Bill Cook",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Wilt Chamberlain",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Georges Vezina",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Dolph Schayes",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "George Hainsworth",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Frank Mahovlich",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Red Kelly",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Paul Breitner",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Lionel Messi",
+        "category": "sports",
+        "subcategory": "football"
+    },
+    {
+        "name": "Bob Pettit",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Bryan Trottier",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Magic Johnson",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Denis Law",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bill Walton",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Rivelino",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Turk Broda",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Denis Bergkamp",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ronaldinho",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Florian Albert",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Sam Jones",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Doug Harvey",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "James Worthy",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Guy Lafleur",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Syl Apps",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Denis Potvin",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Clint Benedict",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "David Beckham",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ken Dryden",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Dave Cowens",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Wes Unseld",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Busher Jackson",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Frank Brimsek",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Marco van Basten",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Jaromir Jagr",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Chris Chelios",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Gordie Howe",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Scottie Pippen",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Pete Maravich",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Andy Bathgate",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bobby Charlton",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Gerd Muller",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Gheorghe Hagi",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Pierre Pilote",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Paul Pierce",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Elmer Lach",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "David Robinson",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Nicklas Lidstrom",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Henri Richard",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Uwe Seeler",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "George Best",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Dit Clapper",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Josef Masopust",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bernie Geoffrion",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Bill Cowley",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Robert Parish",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Karl-Heinz Rummenigge",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Tim Horton",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Gianni Rivera",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Larry Robinson",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Zico",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Dave Bing",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Frank Rijkaard",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Jerry West",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Oleg Blokhin",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Michel Platini",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Stanley Matthews",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Brett Hull",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Dino Zoff",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bobby Moore",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Hakeem Olajuwon",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Giacinto Facchetti",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Bill Sharman",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Oscar Robertson",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Paolo Rossi",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Eddie Shore",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Gilbert Perreault",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Phil Esposito",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Dominik Hasek",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kevin Garnett",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Grant Fuhr",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Ronaldo (Nazario)",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Sidney Crosby",
+        "category": "sports",
+        "subcategory": "hockey"
+    },
+    {
+        "name": "Kevin McHale",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Moses Malone",
+        "category": "sports",
+        "subcategory": "basketball"
+    },
+    {
+        "name": "Lothar Matthaus",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Ryan Giggs",
+        "category": "sports",
+        "subcategory": "soccer"
+    },
+    {
+        "name": "Larry Bird",
+        "category": "sports",
+        "subcategory": "basketball"
+    }
+]

@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from supabase import create_client, Client
 
 ## python scripts/new.py --name "Lionel Messi" --category "sports"  --subcategory "football"
+## opravit subkategorii u fotbalu
 ## vytvořit si batch soubor
 
 load_dotenv()
